@@ -1,0 +1,21 @@
+p.flashy{
+  color: red;
+  font-style: italic;
+}
+
+p.notflashy{
+  color: black;
+  width: 75%;
+}
+
+p.half{
+  color: blue;
+  width: 50%;
+}
+
+
+li.best{
+  font-weight: bold;
+  color: red;
+  font-family: cursive;
+}
